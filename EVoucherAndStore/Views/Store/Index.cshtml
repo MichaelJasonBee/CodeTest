@@ -1,0 +1,81 @@
+﻿@model IEnumerable<EVoucherAndStore.Models.VoucherModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>EVouchers</h1>
+
+<p>
+    <a asp-action="MyVouchers">My Vouchers</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                Voucher Limit
+            </th>
+            <th>
+                Gift Limit
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExpiryDate)@*@item.ExpiryDate.ToString("yyyy-MM-dd")*@
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @item.DiscountAmount (@item.Paymentmethods.PaymentMethodName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxVoucherLimit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GiftPerUserLimit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsActive)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Buy", "BuyVoucher", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

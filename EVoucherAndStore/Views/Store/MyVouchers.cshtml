@@ -1,0 +1,62 @@
+﻿@model IEnumerable<EVoucherAndStore.Models.TransactionModel>
+
+@{
+    ViewData["Title"] = "MyVouchers";
+}
+
+<h1>MyVouchers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.BuyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PromoCode)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedOn)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.BuyType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PromoCode)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedOn)
+            </td>
+            
+            <td>
+</td>
+        </tr>
+}
+    </tbody>
+</table>

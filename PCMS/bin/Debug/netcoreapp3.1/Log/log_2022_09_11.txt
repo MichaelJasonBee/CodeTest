@@ -1,0 +1,186 @@
+
+Log Entry : 3:08:16 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:08:35 PM Sunday, September 11, 2022  :  :Created Voucher Id : 28----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 29----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 30----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 31----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 32----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 33----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 34----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 35----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 36----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :Created Voucher Id : 37----------------------------------
+Log Entry : 3:08:36 PM Sunday, September 11, 2022  :  :END----------------------------------
+Log Entry : 3:09:18 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:09:19 PM Sunday, September 11, 2022  :  :Created Voucher Id : 38----------------------------------
+Log Entry : 3:09:20 PM Sunday, September 11, 2022  :  :Created Voucher Id : 39----------------------------------
+Log Entry : 3:09:20 PM Sunday, September 11, 2022  :  :Created Voucher Id : 40----------------------------------
+Log Entry : 3:09:21 PM Sunday, September 11, 2022  :  :Created Voucher Id : 41----------------------------------
+Log Entry : 3:09:21 PM Sunday, September 11, 2022  :  :Created Voucher Id : 42----------------------------------
+Log Entry : 3:09:21 PM Sunday, September 11, 2022  :  :Created Voucher Id : 43----------------------------------
+Log Entry : 3:09:21 PM Sunday, September 11, 2022  :  :Created Voucher Id : 44----------------------------------
+Log Entry : 3:09:22 PM Sunday, September 11, 2022  :  :Created Voucher Id : 45----------------------------------
+Log Entry : 3:09:22 PM Sunday, September 11, 2022  :  :Created Voucher Id : 46----------------------------------
+Log Entry : 3:09:22 PM Sunday, September 11, 2022  :  :Created Voucher Id : 47----------------------------------
+Log Entry : 3:09:22 PM Sunday, September 11, 2022  :  :END----------------------------------
+Log Entry : 3:13:25 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:13:27 PM Sunday, September 11, 2022  :  :Created Voucher Id : 48----------------------------------
+Log Entry : 3:13:27 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:27 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:27 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Created Voucher Id : 49----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Created Voucher Id : 50----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Created Voucher Id : 51----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Created Voucher Id : 52----------------------------------
+Log Entry : 3:13:28 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Created Voucher Id : 53----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Created Voucher Id : 54----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Created Voucher Id : 55----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Created Voucher Id : 56----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Created Voucher Id : 57----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:13:29 PM Sunday, September 11, 2022  :  :END----------------------------------
+Log Entry : 3:14:00 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:14:02 PM Sunday, September 11, 2022  :  :Created Voucher Id : 58----------------------------------
+Log Entry : 3:14:02 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:14:34 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:14:34 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:14:34 PM Sunday, September 11, 2022  :  :Created Voucher Id : 59----------------------------------
+Log Entry : 3:14:59 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:15:03 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:15:03 PM Sunday, September 11, 2022  :  :System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at PCMS.Program.BuyVouchers(String token, BuyerModel buyer) in C:\EVoucherAndStore\PCMS\Program.cs:line 207----------------------------------
+Log Entry : 3:15:03 PM Sunday, September 11, 2022  :  :Created Voucher Id : 60----------------------------------
+Log Entry : 3:15:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:05 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:17:06 PM Sunday, September 11, 2022  :  :Created Voucher Id : 61----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Created Voucher Id : 62----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Created Voucher Id : 63----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:07 PM Sunday, September 11, 2022  :  :Created Voucher Id : 64----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 65----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 66----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 67----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 68----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 69----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:08 PM Sunday, September 11, 2022  :  :Created Voucher Id : 70----------------------------------
+Log Entry : 3:17:09 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:17:09 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:17:09 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:17:09 PM Sunday, September 11, 2022  :  :END----------------------------------
+Log Entry : 3:20:02 PM Sunday, September 11, 2022  :  :BEGIN----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :Created Voucher Id : 71----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :Created Voucher Id : 72----------------------------------
+Log Entry : 3:20:04 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 73----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 74----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 75----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 76----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 77----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 78----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Created Voucher Id : 79----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:05 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:06 PM Sunday, September 11, 2022  :  :Created Voucher Id : 80----------------------------------
+Log Entry : 3:20:06 PM Sunday, September 11, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 4----------------------------------
+Log Entry : 3:20:06 PM Sunday, September 11, 2022  :  :ERROR at buying vouchers for Phone Number : 09975722069----------------------------------
+Log Entry : 3:20:06 PM Sunday, September 11, 2022  :  :Limitation of buying this voucher is reached. Please try another voucher.----------------------------------
+Log Entry : 3:20:06 PM Sunday, September 11, 2022  :  :END----------------------------------

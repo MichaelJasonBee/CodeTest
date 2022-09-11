@@ -1,0 +1,69 @@
+﻿@model EVoucherAndStore.Models.TransactionModel
+
+@{
+    ViewData["Title"] = "BuyVoucher";
+}
+
+<h1>Buy Voucher</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BuyVoucher" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" hidden>
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="VoucherId" class="control-label"></label>
+                <input asp-for="VoucherId" class="form-control" />
+                <span asp-validation-for="VoucherId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input id="BuyType" type="radio" name="BuyType" value="0" selected />
+                <label asp-for="BuyType">For Myself</label>
+                <input id="BuyType" type="radio" name="BuyType" value="1" />
+                <label asp-for="BuyType">For Gift</label>
+                <span asp-validation-for="BuyType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentMethods" class="control-label"></label>
+                <select asp-for="PaymentMethods" class="form-control" asp-items="ViewBag.Payments">
+                    <option>Select One</option>
+                </select>
+                <span asp-validation-for="PaymentMethods" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="BUY" class="btn btn-primary" />
+            </div>
+            <div class="form-group">
+                <label style="color:red" class="control-label">@TempData["SubmitMessage"]</label>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

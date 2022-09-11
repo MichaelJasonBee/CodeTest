@@ -1,0 +1,7 @@
+
+Log Entry : 12:35:29 AM Monday, September 12, 2022  :  :BEGIN----------------------------------
+Log Entry : 12:35:32 AM Monday, September 12, 2022  :  :Created Voucher Id : 82----------------------------------
+Log Entry : 12:36:44 AM Monday, September 12, 2022  :  :BEGIN----------------------------------
+Log Entry : 12:36:47 AM Monday, September 12, 2022  :  :Created Voucher Id : 83----------------------------------
+Log Entry : 12:36:51 AM Monday, September 12, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 1----------------------------------
+Log Entry : 12:36:51 AM Monday, September 12, 2022  :  :END----------------------------------
