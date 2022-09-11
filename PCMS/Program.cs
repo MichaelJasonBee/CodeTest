@@ -262,7 +262,6 @@ namespace PCMS
                 w.Write($"{DateTime.Now.ToLongTimeString()} {DateTime.Now.ToLongDateString()}");
                 w.Write("  :");
                 w.Write($"  :{message}");
-                w.Write("----------------------------------");
             }
         }
     }

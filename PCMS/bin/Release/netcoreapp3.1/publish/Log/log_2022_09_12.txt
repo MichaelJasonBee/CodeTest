@@ -1,0 +1,41 @@
+
+Log Entry : 1:05:41 AM Monday, September 12, 2022  :  :BEGIN----------------------------------
+Log Entry : 1:05:48 AM Monday, September 12, 2022  :  :Created Voucher Id : 84----------------------------------
+Log Entry : 1:05:48 AM Monday, September 12, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 1----------------------------------
+Log Entry : 1:05:48 AM Monday, September 12, 2022  :  :END----------------------------------
+Log Entry : 1:06:14 AM Monday, September 12, 2022  :  :BEGIN----------------------------------
+Log Entry : 1:06:15 AM Monday, September 12, 2022  :  :Created Voucher Id : 85----------------------------------
+Log Entry : 1:06:15 AM Monday, September 12, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 1----------------------------------
+Log Entry : 1:06:15 AM Monday, September 12, 2022  :  :END----------------------------------
+Log Entry : 1:08:07 AM Monday, September 12, 2022
+  :
+  :BEGIN
+----------------------------------
+
+Log Entry : 1:08:08 AM Monday, September 12, 2022
+  :
+  :Created Voucher Id : 86
+----------------------------------
+
+Log Entry : 1:08:08 AM Monday, September 12, 2022
+  :
+  :Phone Number : 09975722064, Number of Bought Vouchers : 1
+----------------------------------
+
+Log Entry : 1:08:08 AM Monday, September 12, 2022
+  :
+  :END
+----------------------------------
+
+Log Entry : 1:09:45 AM Monday, September 12, 2022  :  :BEGIN----------------------------------
+
+Log Entry : 1:09:46 AM Monday, September 12, 2022  :  :Created Voucher Id : 87----------------------------------
+
+Log Entry : 1:09:46 AM Monday, September 12, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 1----------------------------------
+
+Log Entry : 1:09:46 AM Monday, September 12, 2022  :  :END----------------------------------
+
+Log Entry : 1:11:15 AM Monday, September 12, 2022  :  :BEGIN
+Log Entry : 1:11:16 AM Monday, September 12, 2022  :  :Created Voucher Id : 88
+Log Entry : 1:11:16 AM Monday, September 12, 2022  :  :Phone Number : 09975722064, Number of Bought Vouchers : 1
+Log Entry : 1:11:16 AM Monday, September 12, 2022  :  :END
